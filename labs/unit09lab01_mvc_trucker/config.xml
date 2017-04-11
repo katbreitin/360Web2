@@ -1,0 +1,10 @@
+<configuration xmlns="http://logging.apache.org/log4php/">
+    <appender name="myAppender" class="LoggerAppenderFile">
+        <layout class="LoggerLayoutPattern" />
+        <param name="file" value="myLog.log" />
+    </appender>
+    <root>
+        <level value="DEBUG" />
+        <appender_ref ref="myAppender" />
+    </root>
+</configuration>

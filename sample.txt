@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 4 ubuntu ubuntu 4096 Apr  5 16:50 SAVE????/
+drwxr-xr-x 2 ubuntu ubuntu 4096 Apr  5 01:38 etc/
+drwxr-xr-x 7 ubuntu ubuntu 4096 Apr  5 16:58 labs/
+drwxr-xr-x 2 ubuntu ubuntu 4096 Apr  5 01:34 milestones/
+-rw-r--r-- 1 ubuntu ubuntu    0 Apr  5 19:06 sample.txt

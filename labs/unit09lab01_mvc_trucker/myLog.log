@@ -1,0 +1,30 @@
+2017-02-19T04:06:15+00:00 INFO  myLogger On trip A, Ann drove 55 mph. Good Job!
+2017-02-19T04:06:15+00:00 INFO  myLogger On trip B, Bob drove 44 mph. Good Job!
+2017-02-19T04:06:15+00:00 WARN  myLogger On trip CD, Bob drove 38 mph. Speed it up!
+2017-02-19T04:06:15+00:00 INFO  myLogger On trip T, Tom drove 54 mph. Good Job!
+2017-02-19T04:06:15+00:00 WARN  myLogger On trip UV, Tom drove 38 mph. Speed it up!
+2017-02-19T04:06:15+00:00 WARN  myLogger On trip WYX, Tom drove 62 mph. Slow it down!
+2017-03-14T21:25:33+00:00 INFO  myLogger On trip A, Ann drove 55 mph. Good Job!
+2017-03-14T21:25:33+00:00 INFO  myLogger On trip B, Bob drove 44 mph. Good Job!
+2017-03-14T21:25:33+00:00 WARN  myLogger On trip CD, Bob drove 38 mph. Speed it up!
+2017-03-14T21:25:33+00:00 INFO  myLogger On trip T, Tom drove 54 mph. Good Job!
+2017-03-14T21:25:33+00:00 WARN  myLogger On trip UV, Tom drove 38 mph. Speed it up!
+2017-03-14T21:25:33+00:00 WARN  myLogger On trip WYX, Tom drove 62 mph. Slow it down!
+2017-03-21T18:54:00+00:00 INFO  myLogger On trip A, Ann drove 55 mph. Good Job!
+2017-03-21T18:54:00+00:00 INFO  myLogger On trip B, Bob drove 44 mph. Good Job!
+2017-03-21T18:54:00+00:00 WARN  myLogger On trip CD, Bob drove 38 mph. Speed it up!
+2017-03-21T18:54:00+00:00 INFO  myLogger On trip T, Tom drove 54 mph. Good Job!
+2017-03-21T18:54:00+00:00 WARN  myLogger On trip UV, Tom drove 38 mph. Speed it up!
+2017-03-21T18:54:00+00:00 WARN  myLogger On trip WYX, Tom drove 62 mph. Slow it down!
+2017-03-21T20:01:35+00:00 INFO  myLogger On trip A, Ann drove 55 mph. Good Job!
+2017-03-21T20:01:35+00:00 INFO  myLogger On trip B, Bob drove 44 mph. Good Job!
+2017-03-21T20:01:35+00:00 WARN  myLogger On trip CD, Bob drove 38 mph. Speed it up!
+2017-03-21T20:01:35+00:00 INFO  myLogger On trip T, Tom drove 54 mph. Good Job!
+2017-03-21T20:01:35+00:00 WARN  myLogger On trip UV, Tom drove 38 mph. Speed it up!
+2017-03-21T20:01:35+00:00 WARN  myLogger On trip WYX, Tom drove 62 mph. Slow it down!
+2017-04-10T20:04:44+00:00 INFO  myLogger On trip A, Ann drove 55 mph. Good Job!
+2017-04-10T20:04:44+00:00 INFO  myLogger On trip B, Bob drove 44 mph. Good Job!
+2017-04-10T20:04:44+00:00 WARN  myLogger On trip CD, Bob drove 38 mph. Speed it up!
+2017-04-10T20:04:44+00:00 INFO  myLogger On trip T, Tom drove 54 mph. Good Job!
+2017-04-10T20:04:44+00:00 WARN  myLogger On trip UV, Tom drove 38 mph. Speed it up!
+2017-04-10T20:04:44+00:00 WARN  myLogger On trip WYX, Tom drove 62 mph. Slow it down!

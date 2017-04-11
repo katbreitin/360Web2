@@ -1,0 +1,37 @@
+body {
+    width:80%;
+    margin-left:5%;
+    font-family:sans-serif;
+}
+
+#left {
+    float:left;
+    width:30%;
+}
+
+#right {
+    float:right;
+    padding-left:5%;
+    width:60%;
+}
+
+ul {
+    list-style:none;
+    padding-left:0;
+}
+
+ul li {
+    list-style-position:inside;
+
+}
+
+footer {
+    bottom:2px;
+    height:40px;
+    margin-top:40px;
+    text-align: center;
+    vertical-align: middle;
+    position: fixed;
+    width: 100%;
+}
+
